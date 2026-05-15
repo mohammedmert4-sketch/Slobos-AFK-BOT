@@ -8,13 +8,14 @@
   "server": {
     "ip": "rahimmert2015.aternos.me",
     "port": 39022,
-    "version": "1.21.1"
+    "version": "1.26.20.4"
   },
   "position": {
     "enabled": true,
     "x": 0,
     "y": 100,
     "z": 0
+
   },
   "utils": {
     "auto-auth": {
